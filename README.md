@@ -1,2 +1,2 @@
 # campo-minado
-Um campo miando simples em C++
+Um campo minado simples em C++
